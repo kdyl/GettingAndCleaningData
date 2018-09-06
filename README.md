@@ -1,7 +1,8 @@
 "Getting and Cleaning Data" Coursera Course Assignment
 
-==================================================================
-Modification of Human Activity Recognition Using Smarthphones Dataset:
+
+Mofidication of Human Activity Recognition Using Smartphones Dataset
+
 
 Train and test datasets were merged. Only variables representing mean and standard deviations were left. Activities and subject information was added to dataset. All variables were labeled correctly. Data was grouped by sujects and activities, and features were summarized as means.
 
@@ -13,7 +14,7 @@ Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
