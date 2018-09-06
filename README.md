@@ -1,4 +1,6 @@
-"Getting and Cleaning Data" Coursera Course Assignment
+
+"Getting and Cleaning Data" Coursera Course Assignment:
+======================================
 
 
 Mofidication of Human Activity Recognition Using Smartphones Dataset
